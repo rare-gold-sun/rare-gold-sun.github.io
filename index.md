@@ -11,6 +11,7 @@ Hello! This is my personal website created with GitHub Pages.
 - Name: HAN Jinyang
 - Student ID: 3250112384
 - Study: Computer / Biology / IBI1 Course
+![my Wechat avatar](assets/images/wujing.jpg){: .center-image }
 
 ## Hobbies
 - learning language
